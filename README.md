@@ -32,6 +32,13 @@ We can collaborate on open-source web development projects together! :)
 ![Dilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekimdilan&show_icons=true&theme=radical)
 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ekimdilan&theme=react-dark)
+
+
+📫 Reach me at: [email@example.com](mailto:dilanncandemir@gmail.com) | [LinkedIn](https://linkedin.com/in/dilancandemir)
+
+
+
 <!--
 **ekimdilan/ekimdilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
