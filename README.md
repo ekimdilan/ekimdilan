@@ -1,11 +1,12 @@
-# Hi there, I'm Dilan
+# 'Hello world'
 
 
 > "Take the blue pill – the story ends. Take the red pill – you stay in Wonderland, and I show you how deep the rabbit hole goes."
 
 ![Matrix GIF](https://media1.tenor.com/m/j2jki0qR4hUAAAAd/matrix.gif)
 
- 
+
+# Hi there, I'm Dilan 😄
 Currently, I am actively working on two group projects: **Green Harvest**, a fresh and organic vendor platform, and **Focus.Frame**, a website for photography enthusiasts.  
 I’m currently learning **JavaScript** and **React**.  
 We can collaborate on open-source web development projects together! :)
