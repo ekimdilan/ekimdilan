@@ -8,7 +8,7 @@ Hello, I'm Dilan.
 Currently, I am actively working on two group projects: **Green Harvest**, a fresh and organic vendor platform, and **Focus.Frame**, a website for photography enthusiasts.  
 I’m currently learning **JavaScript** and **React**.  
 We can collaborate on open-source web development projects together! :)
-�
+
 
 
 🛠 Tools & Technologies: 
@@ -27,6 +27,10 @@ We can collaborate on open-source web development projects together! :)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekimdilan&langs_count=3&hide=Other&layout=compact&theme=radical)
+
+
+![Dilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekimdilan&show_icons=true&theme=radical)
+
 
 <!--
 **ekimdilan/ekimdilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
