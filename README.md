@@ -26,7 +26,7 @@ We can collaborate on open-source web development projects together! :)
 
 
 
-![Dilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekimdilan&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekimdilan&langs_count=3&hide=Other&layout=compact&theme=radical)
+![Dilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekimdilan&show_icons=true&theme=radical)      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekimdilan&langs_count=3&hide=Other&layout=compact&theme=radical)
 
 
 
