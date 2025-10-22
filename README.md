@@ -12,7 +12,7 @@ Currently, I am actively working on two group projects: **Green Harvest**, a fre
 I’m currently learning **JavaScript** and **React**.  
 We can collaborate on open-source web development projects together! :)
 
-
+<br><br>
 
 🛠 Tools & Technologies: 
 
@@ -27,7 +27,7 @@ We can collaborate on open-source web development projects together! :)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-
+<br><br>
 
 ![Dilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekimdilan&show_icons=true&theme=radical) &nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekimdilan&langs_count=3&hide=Other&layout=compact&theme=radical)
 
