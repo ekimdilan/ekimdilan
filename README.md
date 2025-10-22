@@ -4,6 +4,12 @@
 ![Matrix GIF](https://media1.tenor.com/m/j2jki0qR4hUAAAAd/matrix.gif)
 
 
+Hello, I'm Dilan.  
+Currently, I am actively working on two group projects: **Green Harvest**, a fresh and organic vendor platform, and **Focus.Frame**, a website for photography enthusiasts.  
+I’m currently learning **JavaScript** and **React**.  
+We can collaborate on open-source web development projects together! :)
+�
+
 
 🛠 Tools & Technologies: 
 
@@ -17,6 +23,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekimdilan&langs_count=3&hide=Other&layout=compact&theme=radical)
 
