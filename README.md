@@ -1,4 +1,4 @@
-'Hello world'
+print("Hello world")
 
 
 > "Take the blue pill – the story ends. Take the red pill – you stay in Wonderland, and I show you how deep the rabbit hole goes."
