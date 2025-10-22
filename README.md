@@ -35,7 +35,7 @@ We can collaborate on open-source web development projects together! :)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ekimdilan&theme=react-dark)
 
 
-📫 Reach me at: [email@example.com](mailto:dilanncandemir@gmail.com) | [LinkedIn](https://linkedin.com/in/dilancandemir)
+📫 Reach me at: [dilanncandemir@gmail.com]  | (https://linkedin.com/in/dilancandemir)
 
 
 
