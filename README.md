@@ -1,5 +1,5 @@
 print("Hello world")
-
+<br>
 
 > "Take the blue pill – the story ends. Take the red pill – you stay in Wonderland, and I show you how deep the rabbit hole goes."
 
@@ -12,7 +12,7 @@ Currently, I am actively working on two group projects: **Green Harvest**, a fre
 I’m currently learning **JavaScript** and **React**.  
 We can collaborate on open-source web development projects together! :)
 
-<br><br>
+<br>
 
 🛠 Tools & Technologies: 
 
