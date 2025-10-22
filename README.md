@@ -1,7 +1,8 @@
 
 > "Take the blue pill – the story ends. Take the red pill – you stay in Wonderland, and I show you how deep the rabbit hole goes."
 
-![Matrix GIF]([https://tenor.com/view/matrix-gif-5800488](https://tenor.com/yu8q.gif))
+![Matrix GIF](https://media.tenor.com/images/xxxxxx/tenor.gif)
+
 
 🛠 Tools & Technologies: 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
